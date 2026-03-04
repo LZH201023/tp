@@ -44,7 +44,7 @@ public class AppParameters {
         return appParameters;
     }
 
-
+it
     @Override
     public boolean equals(Object other) {
         if (other == this) {
